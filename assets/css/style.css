@@ -9,6 +9,9 @@
 header{
     background-color: #1e1e1e;
 }
+.navbar-nav {
+    display: inline;
+}
 /*-----------------landing-page*/
 body {
     background: url('../images/blackwhite.jpg') no-repeat center center fixed;
