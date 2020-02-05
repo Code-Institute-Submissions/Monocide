@@ -1,0 +1,40 @@
+/*-----------------colors*/
+
+.icon-color{
+    color: orange
+}
+
+
+/*-----------------Header*/
+header{
+    background-color: #1e1e1e;
+}
+/*-----------------landing-page*/
+body {
+    background: url('../images/blackwhite.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*-----------------Footer*/
+footer {
+    background-color: #1e1e1e;
+    margin: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center
+}
+.social-media{
+margin: 0;
+}
+
+.social-media li{
+padding: 10px 10px;
+}
+
+.social-media li a i{
+    font-size: 30px;
+}
