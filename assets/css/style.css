@@ -3,7 +3,25 @@
 .icon-color{
     color: orange
 }
+.text-bg-color{
+    background-color: rgba(30, 30, 30, 0.7)
+}
 
+h2{
+    color: #cc7a00;
+}
+
+h4{
+    color: #f2f2f2;
+}
+
+p{
+    color: #f2f2f2;
+}
+.navbar-toggler{
+    border-color: orange;
+
+}
 
 /*-----------------Header*/
 header{
@@ -40,4 +58,19 @@ padding: 10px 10px;
 
 .social-media li a i{
     font-size: 30px;
+}
+
+/*-----------------About*/
+
+.band-member-img{
+    width: 90%;
+    padding: 20px 20px 20px 20px;
+}
+
+.band-member-box{
+    text-align: center;
+}
+
+.about-band{
+    text-align: center;
 }
