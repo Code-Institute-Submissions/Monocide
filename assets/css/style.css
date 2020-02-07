@@ -26,6 +26,10 @@ p{
     color: #f2f2f2;
 }
 
+#nav-link{
+    color: darkorange;
+}
+
 /*-----------------Header*/
 header{
     background-color: #1e1e1e;
@@ -45,6 +49,11 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
+
+#nav-link{
+    font-size: 20px;
+}
+
 /*-----------------landing-page*/
 .big-logo {
     padding-bottom: 100px;
@@ -106,7 +115,25 @@ padding: 10px 10px;
     min-height: 300px;
     margin-top: 50px;
 }
+
+.youtube{
+    margin-top: 50px; 
+}
 /*-----------------merch*/
+.container .mono-btn{
+    background-color: darkorange;
+    border: none;
+}
+.container .merch-btn{
+    margin-bottom: 80px;
+    background-color: darkorange;
+    border: none;
+}
+.btn-txt{
+    margin: 0;
+    color: #1e1e1e;
+    font-weight: 600;
+}
 #modal-box {
     background-color: rgba(30, 30, 30, 0.7)
 }

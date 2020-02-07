@@ -14,36 +14,42 @@
 <body>
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark">
-			<a class="navbar-brand" href="index.html"><img src="assets/images/orange.logo.png" alt="Monocide Logo" class="nav-logo"></a>
-			<!-- copied from bootstrap documentation and then modified: from here-->
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mono-nav"
+			<a class="navbar-brand"
+				href="index.html"><img src="assets/images/orange.logo.png" alt="Monocide Logo" class="nav-logo"></a>
+				<!-- copied from bootstrap documentation and then modified: from here-->
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mono-nav"
             aria-controls="mono-nav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-			<div class="collapse navbar-collapse" id="mono-nav">
-				<!-- copied from bootstrap documentation: to here-->
+				<div class="collapse navbar-collapse" id="mono-nav">
+					<!-- copied from bootstrap documentation: to here-->
 
-				<ul class="navbar-nav mr-auto list-inline">
-					<li class="nav-item list-inline-item"><a class="nav-link" href="index.html">Home</a>
-					</li>
-					<li class="nav-item list-inline-item"><a class="nav-link" href="about.html">About</a>
-					</li>
-					<li class="nav-item list-inline-item"><a class="nav-link" href="media.html">Media</a>
-					</li>
-					<li class="nav-item list-inline-item"><a class="nav-link" href="merch.html">Merchandise</a>
-					</li>
-					<li class="nav-item list-inline-item active"><a class="nav-link" href="contact.html">Contact</a>
-					</li>
-				</ul>
-			</div>
+					<ul class="navbar-nav mr-auto list-inline">
+						<li class="nav-item list-inline-item"><a class="nav-link" id="nav-link"
+								href="index.html">Home</a>
+						</li>
+						<li class="nav-item list-inline-item"><a class="nav-link" id="nav-link"
+								href="about.html">About</a>
+						</li>
+						<li class="nav-item list-inline-item"><a class="nav-link" id="nav-link"
+								href="media.html">Media</a>
+						</li>
+						<li class="nav-item list-inline-item"><a class="nav-link" id="nav-link"
+								href="merch.html">Merchandise</a>
+						</li>
+						<li class="nav-item list-inline-item active"><a class="nav-link" id="nav-link"
+								href="contact.html">Contact</a>
+						</li>
+					</ul>
+				</div>
 		</nav>
 	</header>
 	<section class="container text-bg-color">
 		<div class="row">
 			<div class="col">
-            <h2>Contact</h2>
-            <p> Want to get in contact with us? Fill out the form and we will get back to you!</p>
+				<h2>Contact</h2>
+				<p> Want to get in contact with us? Fill out the form and we will get back to you!</p>
 			</div>
 		</div>
 		<form>
@@ -61,7 +67,7 @@
 					<textarea class="form-control" id="text-area" rows="5"></textarea>
 				</div>
 
-				<button type="submit" class="btn btn-primary">Submit</button>
+				<button type="submit" class="btn mono-btn"><p class="btn-txt">Submit</p></button>
 		</form>
 	</section>
 	<footer class="container-fluid">
