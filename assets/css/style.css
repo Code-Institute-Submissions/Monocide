@@ -51,6 +51,7 @@ body {
     max-width: 800px;
     height: auto;
     width:80vw;
+
 }
 .logo-box {
     text-align: center;
@@ -102,5 +103,10 @@ padding: 10px 10px;
 
 .spotify {
     max-height: 350px;
+    min-height: 300px;
     margin-top: 50px;
+}
+/*-----------------merch*/
+#modal-box {
+    background-color: rgba(30, 30, 30, 0.7)
 }
