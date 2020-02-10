@@ -41,6 +41,13 @@ h1,h2,h3,h4,h5,h6{
 p{
     font-family: "roboto", sans-serif;
 }
+ .text-box{
+     margin-top: 10px;
+     margin-right: auto; 
+      margin-left: auto; 
+     background-color: rgba(30, 30, 30, 0.8);
+     border-radius: 5px; 
+ }
 /*-----------------Header*/
 header{
     background-color: #1e1e1e;
@@ -121,11 +128,11 @@ padding: 10px 10px;
     float: center;
     text-align: center;
  }
- .text-box{
-     margin-top: 10px;
-     background-color: rgba(30, 30, 30, 0.8);
-     border-radius: 5px; 
- }
+
+
+.band-member-box .text-box{
+    width: 90%;
+}
 /*-----------------media*/
 
 
@@ -144,9 +151,11 @@ padding: 10px 10px;
     border: none;
 }
 .container .merch-btn{
-    margin-bottom: 80px;
+    margin-bottom: 20px;
     background-color: darkorange;
     border: none;
+    margin-left: auto;
+    margin-right: auto;
 }
 .btn-txt{
     margin: 0;
@@ -154,5 +163,5 @@ padding: 10px 10px;
     font-weight: 600;
 }
 #modal-box {
-    background-color: rgba(30, 30, 30, 0.7)
+    background-color: rgba(30, 30, 30, 0.8)
 }
