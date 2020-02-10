@@ -1,10 +1,11 @@
-/*-----------------colors*/
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Roboto&display=swap');
 
+/*-----------------colors*/
 .icon-color{
     color: darkorange
 }
 .text-bg-color{
-    background-color: rgba(30, 30, 30, 0.7)
+    background-color: rgba(30, 30, 30, 0.5)
 }
 
 h2{
@@ -20,7 +21,6 @@ p{
 }
 .navbar-toggler{
     border-color: darkorange;
-
 }
 .form-label{
     color: #f2f2f2;
@@ -29,7 +29,18 @@ p{
 #nav-link{
     color: darkorange;
 }
-
+/*-----------------Genaral*/
+.text-bg-color{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "bebas neue" , sans-serif;
+}
+p{
+    font-family: "roboto", sans-serif;
+}
 /*-----------------Header*/
 header{
     background-color: #1e1e1e;
@@ -91,7 +102,8 @@ padding: 10px 10px;
 
 .band-member-img{
     width: 90%;
-    padding: 20px 20px 20px 20px;
+    border: darkorange 3px solid;
+    border-radius: 5px
 }
 
 .band-member-box{
@@ -101,11 +113,18 @@ padding: 10px 10px;
 
 .about-band{
     text-align: center;
-}
+    padding-top: 5px;
+    margin-top: 10px;
 
+}
 .about-all-band{
     float: center;
     text-align: center;
+ }
+ .text-box{
+     margin-top: 10px;
+     background-color: rgba(30, 30, 30, 0.8);
+     border-radius: 5px; 
  }
 /*-----------------media*/
 
