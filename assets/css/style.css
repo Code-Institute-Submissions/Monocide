@@ -72,18 +72,6 @@ body {
     font-size: 20px;
 }
 
-/*-----------------landing-page*/
-.big-logo {
-    padding-bottom: 100px;
-    max-width: 800px;
-    height: auto;
-    width:80vw;
-
-}
-.logo-box {
-    text-align: center;
-}
-
 /*-----------------Footer*/
 footer {
     background-color: #1e1e1e;
@@ -91,7 +79,8 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
-    text-align: center
+    text-align: center;
+    z-index: 1040;
 }
 .social-media{
 margin: 0;
@@ -105,6 +94,17 @@ padding: 10px 10px;
     font-size: 30px;
 }
 
+/*-----------------landing-page*/
+.big-logo {
+    padding-bottom: 100px;
+    max-width: 800px;
+    height: auto;
+    width:80vw;
+
+}
+.logo-box {
+    text-align: center;
+}
 /*-----------------About*/
 
 .band-member-img{
@@ -133,6 +133,7 @@ padding: 10px 10px;
 .band-member-box .text-box{
     width: 90%;
 }
+
 /*-----------------media*/
 
 
@@ -149,6 +150,7 @@ padding: 10px 10px;
 .container .mono-btn{
     background-color: darkorange;
     border: none;
+    margin-bottom: 20px;
 }
 .container .merch-btn{
     margin-bottom: 20px;
