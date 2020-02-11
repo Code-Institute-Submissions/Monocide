@@ -21,24 +21,20 @@ The visitor goals of the site are:
 ####  Visitors of the site:
     There are two main categories of visitors:
     * Professinal, this could be a booker for a venue, producer, journalist etc.
-    * A fan of the band
+    * Casual, a fan of the band
 
-###### Proffessional Visitor:
-    As a professional visitor of the site, I want to find some information about the band, so that I can write about them on my blog/magazine/promotional poster ,etc.
+##### Proffessional Visitor:
+    As a professional visitor of the site, I want to find some information about the band, so that I can write about them on my
+     blog/magazine/promotional poster ,etc.
     As a professional visitor of the site, I want to contact the band, so that I can book them for my venue/party/interwiew etc.
 
-######  Casual Visitor (Fan):
+#####  Casual Visitor (Fan):
     As a casual visitor of the site, I want to see if there are any upcoming shows, so that I can go to them.
     As a casual visitor of the site, I want to listen to Monocide, so that i can rock out.
 
-
-
-	From the owners point of wiew the main objective of the site is to provide a more proffessional place (than instagram and facebook),
- 	to promote future shows, projects, mechendise. As there are no current shows or tours planned the site will start of as mainly an official
- 	way to get in contact with the band for prespective buisniss partners or show promoters.
-
-
-
+From the owners point of wiew the main objective of the site is to provide a more proffessional place (than instagram and facebook),
+to promote future shows, projects, mechendise. As there are no current shows or tours planned the site will start of as mainly an official
+way to get in contact with the band for prespective buisniss partners or show promoters.
 
 Features: 
 
@@ -48,7 +44,7 @@ Features:
 	
 	Bios page:
 	A page with some information about the band and its members. It will feature some tect about the band in its whole,
-     picutres and text about the band members.
+    picutres and text about the band members.
 
 	Media:
 	A page where you can listen to the bands music via embedded players, either youtube or spotify.
@@ -59,10 +55,12 @@ Features:
 	A page with pictures of merchendise and a contact form where fans can submit requests for merch, and get answers via email.
 
 	Contact:
-	A Page with official Contact window were the band can be reached with any iquiries about gigs , intevievs, collaboration request or other businiss opportunities.	
+	A Page with official Contact window were the band can be reached with any iquiries about gigs, intevievs,
+    collaboration request or other businiss opportunities.	
 
 
-Each page will have a nav-bar with the bands logo and navigation elements wich collpses into a burger menu for small screens, and Links to social media sites.
+Each page will have a nav-bar with the bands logo and navigation elements wich collpses into a burger menu for small screens,
+and Links to social media sites.
 
 Technologies Used:
 	Bootsrap:
