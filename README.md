@@ -40,23 +40,31 @@ Features:
 
 	Landing page:
 	A place to set up the overall feel of the site and a place to put banners with new important features. 
-    It will feature a Nav bar with the band logo, ah hero immage, and a footer with links to social media.
+    It features a Nav bar with the band logo, a hero immage, and a footer with links to social media.
+    The nav bar is made responsive using bootstrap and collapses into a burger menu for medium and small screens.
 	
 	Bios page:
-	A page with some information about the band and its members. It will feature some tect about the band in its whole,
-    picutres and text about the band members.
+	A page with some information about the band and its members. It features some text about the band in its whole,
+    picutres and text about the band members. The images are laid out in a responsive grid using bootstrap,
+    and the text is in a box with dark background to improve readabillity
 
 	Media:
 	A page where you can listen to the bands music via embedded players, either youtube or spotify.
-    it will feature an imbedded spotify player where visitors can play the band's latest music,
-    As well as a youtube window were music as swell as music videos can be played (currently no videos exist so it will start of as music)
+    it features an imbedded spotify player where visitors can play the band's latest music,
+    As well as a youtube window were music and music videos can be played.
+    (currently no videos exist so it will start of as music)
+    Embedded windows are made responsive using bootstrap to asure that videos keep their standard 16by9 aspect ratio.
 
 	Merch:
 	A page with pictures of merchendise and a contact form where fans can submit requests for merch, and get answers via email.
+    The images are laid out in a responsive grid using bootstrap,
+    and the text is in a box with dark background to improve readabillity.
+    The form is triggered by modal to keep the page clean. 
+
 
 	Contact:
-	A Page with official Contact window were the band can be reached with any iquiries about gigs, intevievs,
-    collaboration request or other businiss opportunities.	
+	A Page with official Contact form were the band can be reached with any iquiries about gigs, intevievs,
+    collaboration request or other businiss opportunities. 	
 
 
 Each page will have a nav-bar with the bands logo and navigation elements wich collpses into a burger menu for small screens,
@@ -65,4 +73,6 @@ and Links to social media sites.
 Technologies Used:
 	Bootsrap:
 	
-Testing;
+Testing:
+    [W3C validator](https://validator.w3.org/)
+    [Css Jigsaw validator](https://jigsaw.w3.org/css-validator/)
