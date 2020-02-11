@@ -26,13 +26,10 @@ p{
     color: #f2f2f2;
 }
 
-#nav-link{
-    color: darkorange;
-}
 /*-----------------Genaral*/
 .text-bg-color{
     margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     border-radius: 10px;
 }
 h1,h2,h3,h4,h5,h6{
@@ -76,8 +73,8 @@ body {
     background-size: cover;
 }
 
-#nav-link{
-    font-size: 20px;
+.nav-heading{
+    margin-bottom: 0; 
 }
 
 /*-----------------Footer*/
@@ -160,10 +157,10 @@ padding: 10px 10px;
 .container .mono-btn{
     background-color: darkorange;
     border: none;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .container .merch-btn{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     background-color: darkorange;
     border: none;
 }
