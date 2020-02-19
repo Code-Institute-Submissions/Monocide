@@ -9,7 +9,7 @@
 		integrity="sha384-REHJTs1r2ErKBuJB0fCK99gCYsVjwxHrSU0N7I1zl9vZbggVJXRMsv/sLlOAGb4M" crossorigin="anonymous">
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css">
 	<title>Monocide Merchdise</title>
-    <link rel="icon" href="assets/images/orange.logo.png" type="image/x-icon">
+	<link rel="icon" href="assets/images/orange.logo.png" type="image/x-icon">
 </head>
 
 <body>
@@ -40,7 +40,7 @@
 							</a>
 						</li>
 						<li class="nav-item list-inline-item"><a class="nav-link" href="merch.html">
-								<h2  class="nav-heading">Merchandise</h2>
+								<h2 class="nav-heading">Merchandise</h2>
 							</a>
 						</li>
 						<li class="nav-item list-inline-item"><a class="nav-link" href="contact.html">
@@ -54,9 +54,13 @@
 	<section class="container text-bg-color">
 		<div class="row about-band justify-content-center">
 			<div class="col-md-10 top-text-box text-box">
-					<h2 class="page-heading">Merchandise</h2>
-					<p>We have some nice merchendise but no webshop for now, click the button below, tell us
-						what you're interested in and we'll be in touch!</p>
+				<h2 class="page-heading">Merchandise</h2>
+				<p>We have some nice merchendise but no webshop for now, click the button below, tell us
+					what you're interested in and we'll be in touch!</p>
+				<button type="button" class="btn merch-btn btn-txt" data-toggle="modal" data-target="#merch-modal">
+                    Send Request!
+                </button>
+
 			</div>
 		</div>
 		<div class="row justify-content-center">
@@ -64,14 +68,16 @@
 				<img src="assets/images/monocide.jpg" class="grid-img" alt="Picture of T-shirt"/>
 				<div class="text-box">
 					<h4 class="text-box-heading">T-shirt</h4>
-					<p>Cosy T-shirts in soft fabric with Monocide logo on the chest.<br> Avaliable in Small through XL</p>
+					<p>Cosy T-shirts in soft fabric with Monocide logo on the
+						chest.<br> Avaliable in Small through XL</p>
 				</div>
 			</div>
 			<div class="col-sm-10 col-md-6 col-lg-4  content-box">
 				<img src="assets/images/monocide.jpg" class="grid-img" alt="Picture of Long sleaved T-shirt"/>
 				<div class="text-box">
 					<h4 class="text-box-heading">Long sleaved T-shirt</h4>
-					<p>Cosy long sleaved T-shirts in soft fabric with Monocide tropical art on the front.<br> Avaliable in Small through XL</p>
+					<p>Cosy long sleaved T-shirts in soft fabric with Monocide tropical art on the
+						front.<br> Avaliable in Small through XL</p>
 				</div>
 			</div>
 			<div class="col-sm-10 col-md-6 col-lg-4 content-box">
@@ -90,9 +96,6 @@
 			</div>
 		</div>
 		<!-- Button trigger modal Imported from bootstrap libraries and then styled and changed to fit this site -->
-		<button type="button" class="btn merch-btn" data-toggle="modal" data-target="#merch-modal">
-            <p class="btn-txt">Send us a Request with what you want and we'll be in touch!</p>
-        </button>
 
 		<!-- Modal Imported from bootstrap libraries and then styled and changed to fit this site -->
 		<div class="modal fade" id="merch-modal" tabindex="-1" role="dialog" aria-labelledby="merch-modal"
@@ -100,7 +103,7 @@
 			<div class="modal-dialog modal-dialog-centered" role="document">
 				<div class="modal-content" id="modal-box">
 					<div class="modal-header">
-						<h4 class="modal-title" id="merch-modal">Merch Request</h4>
+						<h4 class="modal-title">Merch Request</h4>
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -114,7 +117,7 @@
 							</div>
 							<div class="form-group">
 								<label for="text-area"><h4>Message</h4></label>
-								<textarea class="form-control" id="text-area" rows="5"aria-describedby="texthelp" required></textarea>
+								<textarea class="form-control" id="text-area" rows="5" aria-describedby="texthelp" required></textarea>
 								<small id="texthelp" class="form-text"><p>Tell us what you are interested in.</p></small>
 							</div>
 
@@ -141,18 +144,18 @@
 				<li class="list-inline-item"><a target="_blank"
 						href="https://open.spotify.com/artist/4RgWWAY2WJlM935jNTHfnd?si=XQM8JZT-SIaeffTVKFmyDw&fbclid=IwAR297iU1wzf_wIWK_YyJDg58uW7p5hiZDjsK88fMYmVKYObfF6aRTpjvi3k">
 						<i class="fab fa-spotify icon-color"></i>
-                        <span class="sr-only">Spotify</span>
+						<span class="sr-only">Spotify</span>
 					</a>
 				</li>
 				<li class="list-inline-item"><a target="_blank" href="https://www.facebook.com/monocideofficial/">
 						<i class="fab fa-facebook icon-color"></i>
-                        <span class="sr-only">Facebook</span>
+						<span class="sr-only">Facebook</span>
 					</a>
 				</li>
 				<li class="list-inline-item"><a target="_blank"
 						href="https://www.instagram.com/monocideband/?igshid=1pm8cn0fkn4aq&fbclid=IwAR0jrwEBP5iNbFUkJxALul1w437GHl8-rezwl-sh6ScRT2OvH1d71766Ieo">
 						<i class="fab fa-instagram icon-color"></i>
-                        <span class="sr-only">Instagram</span>
+						<span class="sr-only">Instagram</span>
 					</a>
 				</li>
 			</ul>

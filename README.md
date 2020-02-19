@@ -44,11 +44,11 @@ way to get in contact with the band for prespective buisniss partners or show pr
 
 #### Wireframe Mockups
 Wireframe mockups were created using Balsamic  Mockups 3
-[Landing Page](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/landing-page.wireframes.png)
-[About](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/about.wireframes.png)
-[Media](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/media.wireframes.png)
-[Merch](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/merch.wireframes.png)
-[Contact](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/contact.wireframes.png)
+- [Landing Page](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/landing-page.wireframes.png)
+- [About](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/about.wireframes.png)
+- [Media](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/media.wireframes.png)
+- [Merch](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/merch.wireframes.png)
+- [Contact](https://github.com/jourm/Monocide/tree/master/assets/images/mockups/contact.wireframes.png)
 ## Features: 
 
 #### General Features

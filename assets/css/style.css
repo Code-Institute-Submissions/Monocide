@@ -157,11 +157,19 @@ padding: 10px 10px;
     background-color: darkorange;
     border: none;
     margin-bottom: 10px;
+    color: #1e1e1e;
+    font-weight: 600;
+     font-family: "roboto", sans-serif;
+    font-size: 18px;
 }
 .container .merch-btn{
     margin-bottom: 10px;
     background-color: darkorange;
     border: none;
+    color: #1e1e1e;
+    font-weight: 600;
+    font-family: "roboto", sans-serif;
+    font-size: 18px;
 }
 .btn-txt{
     margin: 0;
