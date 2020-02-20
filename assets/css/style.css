@@ -39,15 +39,15 @@ p{
     font-family: "roboto", sans-serif;
     font-size: 18px;
 }
- .text-box{
+.text-box{
     margin-top: 10px;
     margin-right: auto; 
     margin-left: auto; 
     background-color: rgba(30, 30, 30, 0.8);
     border-radius: 5px; 
- }
+}
  
- .page-heading{
+.page-heading{
     padding-top: 10px;
 }
 .text-box-heading{
@@ -178,4 +178,16 @@ padding: 10px 10px;
 }
 #modal-box {
     background-color: rgba(30, 30, 30, 0.9);
+}
+/*-----------------Contact*/
+.form-text{
+    font-family: "roboto", sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+.label-txt{
+     font-family: "bebas neue" , sans-serif;
+     font-size: 24px;
+     color: white;
 }
