@@ -30,13 +30,14 @@ There are two main categories of visitors:
 * Casual, a fan of the band
 
 ##### Proffessional Visitor:
-As a professional visitor of the site, I want to find some information about the band, so that I can write about them on my
+1. As a professional visitor of the site, I want to find some information about the band, so that I can write about them on my
 blog/magazine/promotional poster ,etc.
-As a professional visitor of the site, I want to contact the band, so that I can book them for my venue/party/interwiew etc.
+2. As a professional visitor of the site, I want to contact the band, so that I can book them for my venue/party/interwiew etc.
 
 #####  Casual Visitor (Fan):
-As a casual visitor of the site, I want to see if there are any upcoming shows, so that I can go to them.
-As a casual visitor of the site, I want to listen to Monocide, so that i can rock out.
+1. As a casual visitor of the site, I want to see if there are any upcoming shows, so that I can go to them.
+2. As a casual visitor of the site, I want to listen to Monocide, so that i can rock out.
+3. As a casual visitor of the site, I want to find out more bout the band.
 
 From the owners point of wiew the main objective of the site is to provide a more proffessional place (than instagram and facebook),
 to promote future shows, projects, mechendise. As there are no current shows or tours planned the site will start of as mainly an official
@@ -105,8 +106,27 @@ collaboration request or other businiss opportunities.
 	
 ## Testing:
 the code has been run through and validated by :
-For HTML:[W3C validator](https://validator.w3.org/) 
-For CSS: [Css Jigsaw validator](https://jigsaw.w3.org/css-validator/)
+- For HTML:[W3C validator](https://validator.w3.org/) 
+- For CSS: [Css Jigsaw validator](https://jigsaw.w3.org/css-validator/)
+#### Testing of User Stories
+##### Professional visitor:
+1. A visitor looking for some information about the band and its members can no matter what page they start on easily navigate 
+to the [About page](https://jourm.github.io/Monocide/about.html) to find some information.
+[Here](https://github.com/jourm/Monocide/tree/master/assets/images/screenshots/user-stories.information) is an example of the
+path one would take. Starting from landingpage on the left and the clicking about to end up on the About page on the right.
+2. A Visitor looking to get in contact with the band can easily navigate to the [Contact page](https://jourm.github.io/Monocide/contact.html) using the nav bar avaliable on top of all pages.
+[Here]((https://github.com/jourm/Monocide/tree/master/assets/images/screenshots/user-stories.professional)) is an example of the path one could take, Starting on the landing page and then clicking contact in the nav bar and ending up on the contact page where there is a contactform to fill out.
+
+##### Casual Visitor (Fan)
+1. A visitor coming to the page looking for information about upcoming shows will be dissapointed, because there are none planned.
+As soon as there are plans for a new show a jumbotron will be added to the Landing page with information and a link to it. Having an emty "tour" page would not improve the bands image.
+2. A visitor coming to the site looking to buy some merchendise will easily be able to navigate to the [Merchendise](https://jourm.github.io/Monocide/merch.html) page using the navbar avaliable on all pages.
+[Here](https://github.com/jourm/Monocide/tree/master/assets/images/screenshots/user-stories.fan.merch) is an example of what path on could take, starting from the landing page on the left and clicking Merchendise 
+in the nav bar to then end up on the Merchendis page on the right.
+3. A visitor looking for some information about the band and its members can no matter what page they start on easily navigate 
+to the [About page](https://jourm.github.io/Monocide/about.html) to find some information.
+[Here](https://github.com/jourm/Monocide/tree/master/assets/images/screenshots/user-stories.information) is an example of the
+path one would take. Starting from landingpage on the left and the clicking about to end up on the About page on the right.
 
 ## Deployment
 
