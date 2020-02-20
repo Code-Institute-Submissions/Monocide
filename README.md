@@ -101,14 +101,14 @@ collaboration request or other businiss opportunities.
 - This project uses fonts imported from [Google Fonts](https://fonts.google.com/)
 - This project uses icons imported from [FontAwesome](https://fontawesome.com/)
 - This Project uses [Bootsrap4](https://getbootstrap.com/) for its responsive layout and certain featues from its content library.
-
+- This project uses Embedded [Spotify](https://www.spotify.com/se/) and [Youtube](https://www.youtube.com/) for playing music and video.
 
 	
 ## Testing:
-the code has been run through and validated by :
+the code has been run through and validated without errors by :
 - For HTML:[W3C validator](https://validator.w3.org/) 
 - For CSS: [Css Jigsaw validator](https://jigsaw.w3.org/css-validator/)
-#### Testing of User Stories
+### Testing of User Stories
 ##### Professional visitor:
 1. A visitor looking for some information about the band and its members can no matter what page they start on easily navigate 
 to the [About page](https://jourm.github.io/Monocide/about.html) to find some information.
@@ -141,4 +141,4 @@ This project was pushed to github using git and deployed to GitHub Pages using t
 #### Photos
 All photos on the site were taken and edited by [Nina Melander](https://www.instagram.com/n__marguerite/)
 #### Media
-All text, Music and logos were obtained from Monocide directly.
+All text, Music and logos were obtained from Monocide.
