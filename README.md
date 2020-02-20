@@ -36,9 +36,9 @@ blog/magazine/promotional poster ,etc.
  
 #####  Casual Visitor (Fan):
 1. As a casual visitor of the site, I want to see if there are any upcoming shows, so that I can go to them.
-2. As a casual visitor of the site, I want to listen to Monocide, so that i can rock out.
+2. As a casual visitor of the site, I want to look at merchendise and maybe buy some.
 3. As a casual visitor of the site, I want to find out more about the band.
- 
+4. As a casual visitor of the site, I want to listen to Monocide, so that i can rock out. 
 From the owners point of view the main objective of the site is to provide a more professional place (than instagram and facebook),
 to promote future shows, projects, merchandise. As there are no current shows or tours planned the site will start of as mainly an official
 way to get in contact with the band for prespective business partners or show promoters.
@@ -120,14 +120,17 @@ path one would take. Starting from landing page on the left and the clicking abo
 ##### Casual Visitor (Fan)
 1. A visitor coming to the page looking for information about upcoming shows will be disappointed, because there are none planned.
 As soon as there are plans for a new show a jumbotron will be added to the Landing page with information and a link to it. Having an empty "tour" page would not improve the bands image.
-2. A visitor coming to the site looking to buy some merchandise will easily be able to navigate to the [Merchandise](https://jourm.github.io/Monocide/merch.html) page using the navbar available on all pages.
+2. A visitor coming to the site looking to buy some merchandise will easily be able to navigate to the [Merchandise](https://jourm.github.io/Monocide/merch.html) page using the navbar available on all pages on it theyt can see the available merch and fill out a request form for what they are interested in.
+ A bandmember will then get an email with thir request and can get back to them regarding avalabillity price payment method etc.
 [Here](https://github.com/jourm/Monocide/tree/master/assets/images/screenshots/user-stories.fan.merch.PNG) is an example of what path on could take, starting from the landing page on the left and clicking Merchandise 
 in the nav bar to then end up on the Merchandise page on the right.
 3. A visitor looking for some information about the band and its members can no matter what page they start on easily navigate 
 to the [About page](https://jourm.github.io/Monocide/about.html) to find some information.
 [Here](https://github.com/jourm/Monocide/tree/master/assets/images/screenshots/user-stories.information.PNG) is an example of the
 path one would take. Starting from landing page on the left and the clicking about to end up on the About page on the right.
- 
+4.  A visitor looking to listen to Monocide can easily navigate the [Media page](https://jourm.github.io/Monocide/media.html) using the navbar, and there they can listen to music either via youtube or spotify.
+[Here](https://github.com/jourm/Monocide/tree/master/assets/images/screenshots/user-stories.fan.merch.PNG) is an example of what path on could take, starting from the landing page on the left and clicking Media 
+in the nav bar to then end up on the Media page on the right.
 ## Deployment
  
 This project was pushed to github using git and deployed to GitHub Pages using the following method:
