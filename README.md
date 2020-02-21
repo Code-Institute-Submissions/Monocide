@@ -115,7 +115,7 @@ to the [About page](https://jourm.github.io/Monocide/about.html) to find some in
 ![screenshot user story](https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.information.PNG) is an example of the
 path one would take. Starting from landing page on the left and the clicking about to end up on the About page on the right.
 - A Visitor looking to get in contact with the band can easily navigate to the [Contact page](https://jourm.github.io/Monocide/contact.html) using the nav bar available on top of all pages.
-![screenshot user story]((https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.professional.PNG)) is an example of the path one could take, Starting on the landing page and then clicking contact in the nav bar and ending up on the contact page where there is a contact form to fill out.
+![screenshot user story](https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.professional.PNG) is an example of the path one could take, Starting on the landing page and then clicking contact in the nav bar and ending up on the contact page where there is a contact form to fill out.
  
 ##### Casual Visitor (Fan)
 - A visitor coming to the page looking for information about upcoming shows will be disappointed, because there are none planned.
