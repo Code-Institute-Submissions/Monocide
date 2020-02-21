@@ -112,17 +112,17 @@ the code has been run through and validated without errors by :
 ##### Professional visitor:
 - A visitor looking for some information about the band and its members can no matter what page they start on easily navigate 
 to the [About page](https://jourm.github.io/Monocide/about.html) to find some information.
-![screenshot user story](https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.information.PNG) is an example of the
+![screenshot user story](https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.information.PNG) Here is an example of the
 path one would take. Starting from landing page on the left and the clicking about to end up on the About page on the right.
 - A Visitor looking to get in contact with the band can easily navigate to the [Contact page](https://jourm.github.io/Monocide/contact.html) using the nav bar available on top of all pages.
-![screenshot user story](https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.professional.PNG) is an example of the path one could take, Starting on the landing page and then clicking contact in the nav bar and ending up on the contact page where there is a contact form to fill out.
+![screenshot user story](https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.professional.PNG) Here is an example of the path one could take, Starting on the landing page and then clicking contact in the nav bar and ending up on the contact page where there is a contact form to fill out.
  
 ##### Casual Visitor (Fan)
 - A visitor coming to the page looking for information about upcoming shows will be disappointed, because there are none planned.
 As soon as there are plans for a new show a jumbotron will be added to the Landing page with information and a link to it. Having an empty "tour" page would not improve the bands image.
 - A visitor coming to the site looking to buy some merchandise will easily be able to navigate to the [Merchandise](https://jourm.github.io/Monocide/merch.html) page using the navbar available on all pages on it theyt can see the available merch and fill out a request form for what they are interested in.
  A bandmember will then get an email with thir request and can get back to them regarding avalabillity price payment method etc.
-![screenshot user story](https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.fan.merch.PNG) is an example of what path on could take, starting from the landing page on the left and clicking Merchandise 
+![screenshot user story](https://github.com/jourm/Monocide/blob/master/assets/images/screenshots/user-story.fan.merch.PNG) Here is an example of what path on could take, starting from the landing page on the left and clicking Merchandise 
 in the nav bar to then end up on the Merchandise page on the right.
 - A visitor looking for some information about the band and its members can no matter what page they start on easily navigate 
 to the [About page](https://jourm.github.io/Monocide/about.html) to find some information.
